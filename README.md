@@ -6,4 +6,9 @@ Minha *primeira* alteração
 Minha **segunda** alteração
 
 
+Linha criada linha 9 
+
 Linha criada na branch 2, também na linha 9
+
+
+
