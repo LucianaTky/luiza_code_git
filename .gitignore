@@ -1,3 +1,4 @@
+# gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -10,6 +11,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+
 dist/
 downloads/
 eggs/
@@ -42,6 +44,7 @@ htmlcov/
 .tox/
 .nox/
 .coverage
+
 .coverage.*
 .cache
 nosetests.xml
@@ -98,6 +101,7 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+
 # SageMath parsed files
 *.sage.py
 
@@ -128,4 +132,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Ignorando arquivos .txt
 *.txt   
